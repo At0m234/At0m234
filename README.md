@@ -1,10 +1,49 @@
-### Hi there 👋
+# __*Hi there, my dear friend!*__ 👋
+## __*My name is Vladimir Olegovich Ilin. I am a novice fullstack developer from Moscow.*__
+***
+### <p> 🧑🏻‍💻 __*My Technology Stack*__ </p>
 
-<!--
+![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=css3&logoColor=2073B0)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=plastic&logo=JavaScript)
+![WebPack](https://img.shields.io/badge/Webpack-090909?style=plastic&logo=WebPack)
+![React](https://img.shields.io/badge/ReactJS-090909?style=plastic&logo=React)
+![NodeJS](https://img.shields.io/badge/Node.js-090909?style=plastic&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-090909?style=plastic&logo=Express)
+![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=plastic&logo=MongoDB)
+***
+
+### <p> 🤖 __*Here you can see my works*__ </p>
+#### <p> __*Educational Projects*__ </p>
+
+🔗[Adaptive Layout: HTML+CSS](https://github.com/At0m234/russian-travel.git)
+
+🔗[Frontend: HTML+CSS+JS+Webpack](https://github.com/At0m234/mesto.git)
+
+🔗[Frontend Diploma: React](https://github.com/At0m234/movies-explorer-frontend.git)
+
+🔗[Backend Diploma: Node Express MongoDB](https://github.com/At0m234/movies-explorer-api.git)
+
+#### <p> __*First Orders*__ </p>
+
+🔗[Landing Page](https://easydrive-online.ru/)
+
+🔗[Frontend React: Multi-page website with a personal account](https://github.com/At0m234/BeriFast)
+
+🔗[Backend Node Express MongoDB: Multi-page website with a personal account](https://github.com/At0m234/BeriFast-api.git/)
+
+***
+
+### <p> 📮 __*Contact With Me*__ </p>
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram)](https://t.me/At0m234)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-090909?style=plastic&logo=Whatsapp)](https://wa.me/79995505035)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
+
+<!-- ### Hi there 👋
 **At0m234/At0m234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +52,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
