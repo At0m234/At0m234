@@ -43,7 +43,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=At0m234&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=At0m234&show_icons=true&theme=tokyonight)
 
 <!-- ### Hi there 👋
 **At0m234/At0m234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
