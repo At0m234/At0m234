@@ -1,6 +1,6 @@
 # __*Hi there, my dear friend!*__ 👋
 ## __*My name is Vladimir Olegovich Ilin. I am a novice fullstack developer from Moscow.*__
-***
+
 ### <p> 🧑🏻‍💻 __*My Technology Stack*__ </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
@@ -38,6 +38,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram)](https://t.me/At0m234)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-090909?style=plastic&logo=Whatsapp)](https://wa.me/79995505035)
+[![Skype](https://img.shields.io/badge/Skype-090909?style=plastic&logo=Skype)](https://join.skype.com/invite/dBOxpkGjhXLa)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
 
