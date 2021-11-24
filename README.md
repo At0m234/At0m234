@@ -1,11 +1,12 @@
 # __*Hi there, my dear friend!*__ 👋
-## __*My name is Vladimir Olegovich Ilin. I am a novice fullstack developer from Moscow.*__
+## __*My name is Vladimir Olegovich Ilin. I am a novice fullstack developer from Moscow. Glad to see you on my page.*__
 
 ### <p> 🧑🏻‍💻 __*My Technology Stack*__ </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=css3&logoColor=2073B0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=plastic&logo=JavaScript)
+![Git](https://img.shields.io/badge/Git-090909?style=plastic&logo=Git)
 ![WebPack](https://img.shields.io/badge/Webpack-090909?style=plastic&logo=WebPack)
 ![React](https://img.shields.io/badge/ReactJS-090909?style=plastic&logo=React)
 ![NodeJS](https://img.shields.io/badge/Node.js-090909?style=plastic&logo=node.js)
