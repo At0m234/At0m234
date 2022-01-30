@@ -1,6 +1,6 @@
-<h1 style="font-weight: bold;">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h1>
+<h1 style="font-weight: bold; font-size: 2em">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h1>
 
-<h2 style="font-weight: bold;">📮 Contact With Me</h2>
+<h2 style="font-weight: bold; font-size: 1.5em">📮 Contact With Me</h2>
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram)](https://t.me/At0m234)
@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
 ***
-<h2 style="font-weight: bold;">💼 Skills</h2>
+<h2 style="font-weight: bold; font-size: 1.5em">💼 Skills</h2>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
@@ -80,7 +80,7 @@
 
 <br> -->
 
-<h2 style="font-weight: bold;">📌 Pinned Repositoriess</h2>
+<h3 style="font-weight: bold; font-size: 1.5em">📌 Pinned Repositoriess</h3>
 
 <!-- <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -123,5 +123,3 @@
 </a>
 
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=At0m234&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-***
-<br>
