@@ -1,6 +1,6 @@
-<h3 style="font-weight: bold; font-size: 60px">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h3>
+<p style="font-weight: bold; font-size: 60px">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</p>
 
-<h3 style="font-weight: bold; font-size: 40px">📮 Contact With Me</h3>
+<p style="font-weight: bold; font-size: 40px">📮 Contact With Me</p>
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram)](https://t.me/At0m234)
@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
 ***
-<h3 style="font-weight: bold; font-size: 40px">💼 Skills</h3>
+<p style="font-weight: bold; font-size: 40px">💼 Skills</p>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
@@ -80,7 +80,7 @@
 
 <br> -->
 
-<h3 style="font-weight: bold; font-size: 40px">📌 Pinned Repositoriess</h3>
+<p style="font-weight: bold; font-size: 40px">📌 Pinned Repositoriess</p>
 
 <!-- <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -90,7 +90,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  -->
 
-<h3 style="font-weight: bold;">Freelance</h3>
+<p style="font-weight: bold;">Freelance</p>
 
 🔗[Frontend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast)
 
@@ -100,7 +100,7 @@
 
 🔗[Сonstruction company landing page](https://github.com/At0m234/NordConstruction.git)
 
-<h3 style="font-weight: bold;">Educational Projects</h3>
+<p style="font-weight: bold;">Educational Projects</p>
 
 🔗[Russian travel](https://github.com/At0m234/russian-travel.git)
 
@@ -112,7 +112,7 @@
 ***
 <br>
 
-<h3 style="font-weight: bold; font-size: 40px">&#x1f4c8; GitHub Stats</h3>
+<p style="font-weight: bold; font-size: 40px">&#x1f4c8; GitHub Stats</p>
 
 <a href="https://github.com/At0m234">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=At0m234&theme=tokyonight" />
