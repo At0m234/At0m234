@@ -10,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
 ***
-<br>
-
 ## 💼 __*Skills*__ 
 <br>
 
@@ -25,9 +23,6 @@
 ![Express.js](https://img.shields.io/badge/Express-090909?style=plastic&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=plastic&logo=MongoDB)
 ***
-<br>
-
-
 
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -88,8 +83,6 @@
 
 ## 📌  __*Pinned Repositoriess*__ 
 
-<br>
- 
 <!-- <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
