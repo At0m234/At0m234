@@ -1,6 +1,6 @@
-<h1 style="font-weight: bold; font-size: 2em">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h1>
+<h3 style="font-weight: bold; font-size: 2em">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h3>
 
-<h2 style="font-weight: bold; font-size: 1.5em">📮 Contact With Me</h2>
+<h3 style="font-weight: bold; font-size: 1.5em">📮 Contact With Me</h3>
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram)](https://t.me/At0m234)
@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
 ***
-<h2 style="font-weight: bold; font-size: 1.5em">💼 Skills</h2>
+<h3 style="font-weight: bold; font-size: 1.5em">💼 Skills</h3>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
@@ -123,3 +123,5 @@
 </a>
 
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=At0m234&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+***
+<br>
