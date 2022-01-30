@@ -1,16 +1,16 @@
 <h1 style="font-weight: bold">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h1>
 
-<h2 style="font-weight: bold">📮 Contact With Me</h2>
 <br>
+
+<h2 style="font-weight: bold">📮 Contact With Me</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram)](https://t.me/At0m234)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-090909?style=plastic&logo=Whatsapp)](https://wa.me/79995505035)
 [![Skype](https://img.shields.io/badge/Skype-090909?style=plastic&logo=Skype)](https://join.skype.com/invite/dBOxpkGjhXLa)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=plastic&logo=Vk&logoColor=4D75A3)](https://vk.com/ilinvo)
-***
+
 <h2 style="font-weight: bold">💼 Skills</h2>
-<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=css3&logoColor=2073B0)
@@ -21,7 +21,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-090909?style=plastic&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-090909?style=plastic&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=plastic&logo=MongoDB)
-***
+
 
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -109,8 +109,6 @@
 🔗[Frontend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-frontend.git)
 
 🔗[Backend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-api.git)
-***
-<br>
 
 <h2 style="font-weight: bold>&#x1f4c8; GitHub Stats</h2>
 
