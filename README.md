@@ -90,25 +90,21 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  -->
 
-<h3 style="font-weight: bold">Freelance</h3>
+<!-- 🔗[Frontend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast)
 
-🔗[Frontend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast)
+🔗[Backend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast-api.git/) -->
 
-🔗[Backend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast-api.git/)
+🔗[Driving school landing page](https://github.com/At0m234/Drive.git)
 
-🔗[Driving school landing page](https://github.com/At0m234/EasyDrive.git)
-
-🔗[Сonstruction company landing page](https://github.com/At0m234/NordConstruction.git)
-
-<h3 style="font-weight: bold">Educational Projects</h3>
-
-🔗[Russian travel](https://github.com/At0m234/russian-travel.git)
-
-🔗[Places of Russia](https://github.com/At0m234/mesto.git)
+🔗[Сonstruction company landing page](https://github.com/At0m234/Nord.git)
 
 🔗[Frontend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-frontend.git)
 
 🔗[Backend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-api.git)
+
+🔗[Russian travel](https://github.com/At0m234/russian-travel.git)
+
+🔗[Places of Russia](https://github.com/At0m234/mesto.git)
 
 <h2 style="font-weight: bold>&#x1f4c8; GitHub Stats</h2>
 
