@@ -1,4 +1,4 @@
-<h1 style="font-weight: bold">Hey there👋 My name is Vladimir. I am a novice full-stack developer from Moscow. Glad to see you on my page.</h1>
+<h1 style="font-weight: bold">Hey there👋 My name is Vladimir. I am Frontend Developer from Moscow.</h1>
 
 <br>
 
