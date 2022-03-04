@@ -80,7 +80,7 @@
 
 <br> -->
 
-<h2 style="font-weight: bold">📌 Pinned Repositoriess</h2>
+<h2 style="font-weight: bold">📌 Pinned Repositories</h2>
 
 <!-- <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -94,17 +94,17 @@
 
 🔗[Backend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast-api.git/) -->
 
-🔗[Driving school landing page](https://github.com/At0m234/Drive.git)
+🔗 [Driving school landing page](https://github.com/At0m234/Drive.git)
 
-🔗[Сonstruction company landing page](https://github.com/At0m234/Nord.git)
+🔗 [Сonstruction company landing page](https://github.com/At0m234/Nord.git)
 
-🔗[Frontend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-frontend.git)
+🔗 [Frontend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-frontend.git)
 
-🔗[Backend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-api.git)
+🔗 [Backend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-api.git)
 
-🔗[Russian travel](https://github.com/At0m234/russian-travel.git)
+🔗 [Russian travel](https://github.com/At0m234/russian-travel.git)
 
-🔗[Places of Russia](https://github.com/At0m234/mesto.git)
+🔗 [Places of Russia](https://github.com/At0m234/mesto.git)
 
 <h2 style="font-weight: bold>&#x1f4c8; GitHub Stats</h2>
 
