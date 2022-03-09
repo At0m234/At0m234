@@ -106,8 +106,8 @@
 
 🔗 [Places of Russia](https://github.com/At0m234/mesto.git)
 
-<h2 style="font-weight: bold>&#x1f4c8; GitHub Stats</h2>
-
+<h2 style="font-weight: bold"><img src="growth32.png" style="margin-bottom: -5px"/> GitHub Stats </h2>
+<!-- &#x1f4c8; -->
 <a href="https://github.com/At0m234">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=At0m234&theme=tokyonight" />
 </a>
