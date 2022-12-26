@@ -12,16 +12,20 @@
 
 <h2 style="font-weight: bold">💼 Skills</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-090909?style=plastic&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=css3&logoColor=2073B0)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=plastic&logo=JavaScript)
-![NodeJS](https://img.shields.io/badge/Node.js-090909?style=plastic&logo=node.js)
-![React](https://img.shields.io/badge/ReactJS-090909?style=plastic&logo=React)
-![WebPack](https://img.shields.io/badge/Webpack-090909?style=plastic&logo=WebPack)
-![Git](https://img.shields.io/badge/Git-090909?style=plastic&logo=Git)
-![Docker](https://img.shields.io/badge/Docker-090909?style=plastic&logo=docker)
-![Express.js](https://img.shields.io/badge/Express-090909?style=plastic&logo=Express)
-![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=plastic&logo=MongoDB)
+![HTML5](https://img.shields.io/badge/HTML5-4AB197?style=plastic&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-4AB197?style=plastic&logo=css3&logoColor=2073B0)
+![SCSS](https://img.shields.io/badge/SCSS-4AB197?style=plastic&logo=sass&logoColor=#CD649A)
+![JavaScript](https://img.shields.io/badge/JavaScript-4AB197?style=plastic&logo=JavaScript)
+![NodeJS](https://img.shields.io/badge/Node.js-4AB197?style=plastic&logo=node.js)
+![React](https://img.shields.io/badge/ReactJS-4AB197?style=plastic&logo=React)
+![WebPack](https://img.shields.io/badge/Webpack-4AB197?style=plastic&logo=WebPack)
+![GitHub](https://img.shields.io/badge/GitHub-4AB197?style=plastic&logo=GitHub)
+![Docker](https://img.shields.io/badge/Docker-4AB197?style=plastic&logo=docker)
+![Express.js](https://img.shields.io/badge/Express-4AB197?style=plastic&logo=Express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4AB197?style=plastic&logo=MongoDB)
+![Postman](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&color=4AB197)
+![NPM](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&color=4AB197)
+![NGINX](https://img.shields.io/badge/NGINX-informational?style=flat&logo=nginx&color=4AB197)
 
 
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
@@ -38,9 +42,9 @@
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197) -->
 
-<details>
+<!-- <details>
 <summary>More Skills</summary>
 <br>
 
