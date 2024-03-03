@@ -1,125 +1,83 @@
-<h1 style="font-weight: bold">Hey there👋 My name is Vladimir. I am Frontend Developer from Moscow.</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=46&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=2000&height=300&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
+
+<h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;">
+  📮 Contact With Me
+</h2>
+
+[![Telegram](https://img.shields.io/badge/Telegram-4AB197?style=for-the-badge&logo=Telegram)](https://t.me/Ilin_Volodya)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-4AB197?style=for-the-badge&logo=Whatsapp)](https://wa.me/79995505035)
+
+<h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;">
+  💼 Skills
+</h2>
 
 <br>
 
-<h2 style="font-weight: bold">📮 Contact With Me</h2>
+<!-- CODE -->
 
-[![Telegram](https://img.shields.io/badge/Telegram-00A7B1?style=plastic&logo=Telegram)](https://t.me/At0m234)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-00A7B1?style=plastic&logo=Whatsapp)](https://wa.me/79995505035)
-[![Skype](https://img.shields.io/badge/Skype-00A7B1?style=plastic&logo=Skype)](https://join.skype.com/invite/dBOxpkGjhXLa)
-[![Instagram](https://img.shields.io/badge/Instagram-00A7B1?style=plastic&logo=Instagram)](https://www.instagram.com/vladimir.olegovich90)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-00A7B1?style=plastic&logo=Vk&logoColor=003153)](https://vk.com/ilinvo)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&color=4AB197)
+![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=Webpack&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=for-the-badge&logo=Express&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&color=4AB197)
 
-<h2 style="font-weight: bold">💼 Skills</h2>
-
-![HTML5](https://img.shields.io/badge/HTML5-00A7B1?style=plastic&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-00A7B1?style=plastic&logo=css3&logoColor=003153)
-![SCSS](https://img.shields.io/badge/SCSS-00A7B1?style=plastic&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-00A7B1?style=plastic&logo=JavaScript)
-![NodeJS](https://img.shields.io/badge/Node.js-00A7B1?style=plastic&logo=node.js)
-![React](https://img.shields.io/badge/ReactJS-00A7B1?style=plastic&logo=React)
-![WebPack](https://img.shields.io/badge/Webpack-00A7B1?style=plastic&logo=WebPack)
-![GitHub](https://img.shields.io/badge/GitHub-00A7B1?style=plastic&logo=GitHub)
-![Docker](https://img.shields.io/badge/Docker-00A7B1?style=plastic&logo=docker&logoColor=003153)
-![Express.js](https://img.shields.io/badge/Express-00A7B1?style=plastic&logo=Express)
-![MongoDB](https://img.shields.io/badge/MongoDB-00A7B1?style=plastic&logo=MongoDB)
-![Postman](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&color=00A7B1)
-![NPM](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&color=00A7B1)
-![NGINX](https://img.shields.io/badge/NGINX-informational?style=flat&logo=nginx&color=00A7B1)
-![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=00A7B1)
-
-
-<!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197) -->
-
-<!-- <details>
-<summary>More Skills</summary>
 <br>
+<!-- STYLE -->
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&color=4AB197)
+![](https://img.shields.io/badge/Style-Less-informational?style=for-the-badge&logo=Less&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&color=4AB197)
 
 <br>
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+<!-- TOOLS -->
+
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=for-the-badge&logo=GitLab&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&color=4AB197)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=for-the-badge&logo=yarn&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&color=4AB197)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=4AB197)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=for-the-badge&logo=nginx&color=4AB197)
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+<!-- <h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;">📌 Pinned Repositories</h2> 
 
-</details>
-
-<br> -->
-
-<h2 style="font-weight: bold">📌 Pinned Repositories</h2>
-
-<!-- <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>  -->
+<h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;"><img src="growth32.png" style="margin-bottom: -5px"/> GitHub Stats</h2>
+<!-- Темы: -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- <a href="https://github.com/At0m234">
+  <img  style="margin:0.5rem; height:205px; align: center" src="https://github-readme-stats-nine-flax.vercel.app/api/top-langs/?username=At0m234&theme=tokyonight" />
+</a> -->
 
-<!-- 🔗[Frontend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast)
+<!-- <a href="https://github.com/At0m234">
+  <img style="margin:0.5rem; height:205px; align: center" src="https://github-readme-stats-nine-flax.vercel.app/api?username=At0m234&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
+</a> -->
 
-🔗[Backend: Multi-page website of a microfinance organization with a personal account](https://github.com/At0m234/BeriFast-api.git/) -->
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=At0m234&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-🔗 [Driving school landing page](https://github.com/At0m234/Drive.git)
 
-🔗 [Сonstruction company landing page](https://github.com/At0m234/Nord.git)
+<!-- Карточка профиля:  -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=At0m234&theme=github_dark)
 
-🔗 [Frontend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-frontend.git)
+<!-- Статистика языков в репозиториях: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=At0m234&theme=github_dark)
 
-🔗 [Backend Diploma: Movies explorer](https://github.com/At0m234/movies-explorer-api.git)
+<!-- Статистика языков в коммитах: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=At0m234&theme=github_dark)
 
-🔗 [Russian travel](https://github.com/At0m234/russian-travel.git)
+<!-- Статистика профиля: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=At0m234&theme=github_dark)
 
-🔗 [Places of Russia](https://github.com/At0m234/mesto.git)
-
-<h2 style="font-weight: bold"><img src="growth32.png" style="margin-bottom: -5px"/> GitHub Stats </h2>
-<!-- &#x1f4c8; -->
-<a href="https://github.com/At0m234">
-  <img align="center" style="margin:0.5rem; height:205px" src="https://github-readme-stats-nine-flax.vercel.app/api/top-langs/?username=At0m234&theme=transparent" />
-</a>
-
-<a href="https://github.com/At0m234">
-  <img align="center" style="margin:0.5rem; height:205px" src="https://github-readme-stats-nine-flax.vercel.app/api?username=At0m234&show_icons=true&theme=transparent" alt="My GitHub Stats" />
-</a>
-
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=At0m234&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
