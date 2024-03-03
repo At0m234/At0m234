@@ -1,14 +1,14 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=46&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=2000&height=300&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=68&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=2400&height=400&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
 
-<h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;">
+<h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;">
   📮 Contact With Me
 </h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-4AB197?style=for-the-badge&logo=Telegram)](https://t.me/Ilin_Volodya)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-4AB197?style=for-the-badge&logo=Whatsapp)](https://wa.me/79995505035)
 
-<h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;">
+<h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;">
   💼 Skills
 </h2>
 
@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=4AB197)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=Webpack&color=4AB197)
@@ -49,13 +50,13 @@
 
 <br>
 
-<!-- <h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;">📌 Pinned Repositories</h2> 
+<!-- <h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;">📌 Pinned Repositories</h2> 
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
 
-<h2 style="font-weight: 400; color: #00A7B1; font-family: Caveat; font-size: 32px;"><img src="growth32.png" style="margin-bottom: -5px"/> GitHub Stats</h2>
+<h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;"><img src="growth32.png" style="margin-bottom: -5px"/> GitHub Stats</h2>
 <!-- Темы: -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- <a href="https://github.com/At0m234">
