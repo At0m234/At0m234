@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=68&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=2400&height=400&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=68&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=2600&height=400&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+JS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
 
 <h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;">
   📮 Contact With Me
@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&color=4AB197)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=Next.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=Webpack&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=4AB197)
@@ -47,6 +48,7 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=for-the-badge&logo=nginx&color=4AB197)
+![](https://img.shields.io/badge/Tools-visual_studio_code-informational?style=for-the-badge&logo=visualstudiocode&color=4AB197)
 
 <br>
 
