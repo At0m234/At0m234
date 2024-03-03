@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=4AB197)
+![](https://img.shields.io/badge/Code-EXPO-informational?style=for-the-badge&logo=EXPO&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&color=4AB197)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=Next.js&color=4AB197)
@@ -47,6 +48,7 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=4AB197)
+![](https://img.shields.io/badge/Tools-storybook-informational?style=for-the-badge&logo=storybook&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=for-the-badge&logo=nginx&color=4AB197)
 ![](https://img.shields.io/badge/Tools-visual_studio_code-informational?style=for-the-badge&logo=visualstudiocode&color=4AB197)
 
