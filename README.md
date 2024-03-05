@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=68&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=2600&height=400&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+JS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=84&duration=3000&pause=100&color=00A7B1&center=true&multiline=true&random=false&width=3000&height=470&lines=Hey+there%F0%9F%91%8B;My+name+is+Vladimir.+I+am+Frontend+Developer+from+Moscow.;I+find+my+inspiration+and+creativity+in+the+world+of+web+development.;Utilizing+HTML%2C+CSS%2C+JS%2C+React%2C+Vue+and+TypeScript%2C+I+craft+amazing+user+interfaces.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
 
 <h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;">
   📮 Contact With Me
@@ -7,6 +7,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-4AB197?style=for-the-badge&logo=Telegram)](https://t.me/Ilin_Volodya)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-4AB197?style=for-the-badge&logo=Whatsapp)](https://wa.me/79995505035)
+[![Email](https://img.shields.io/badge/Email-4AB197?style=for-the-badge&logo=mail.ru)](mailto:v.o.ilin@yandex.ru)
 
 <h2 style="font-weight: 800; color: #00A7B1; font-family: Caveat; font-size: 32px;">
   💼 Skills
