@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=Next.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=Webpack&color=4AB197)
-![](https://img.shields.io/badge/Code-Vite-informational?style=for-the-badge&logo=../vite.svg&color=4AB197)
+![](https://img.shields.io/badge/Code-Vite-informational?style=for-the-badge&logo=https://at0m234.github.io/At0m234/vite.svg&color=4AB197)
 
 <br>
 <!-- STYLE -->
