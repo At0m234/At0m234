@@ -17,34 +17,37 @@
 <!-- CODE -->
 
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&color=4AB197)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=Next.js&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&color=4AB197)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=Next.js&color=4AB197)
+![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=Nuxt&color=4AB197)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=Webpack&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vite-informational?style=for-the-badge&logo=https://at0m234.github.io/At0m234/vite.svg&color=4AB197)
 
 <br>
+
 <!-- STYLE -->
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&color=4AB197)
+![](https://img.shields.io/badge/Style-SASS-informational?style=for-the-badge&logo=SASS&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&color=4AB197)
 
 <br>
 
 <!-- TOOLS -->
 
-![](https://img.shields.io/badge/Tools-EXPO-informational?style=for-the-badge&logo=EXPO&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=GitHub&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=4AB197)
 ![](https://img.shields.io/badge/Tools-storybook-informational?style=for-the-badge&logo=storybook&color=4AB197)
+![](https://img.shields.io/badge/Tools-EXPO-informational?style=for-the-badge&logo=EXPO&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=for-the-badge&logo=yarn&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&color=4AB197)
 
 <!-- ![](https://img.shields.io/badge/Style-Less-informational?style=for-the-badge&logo=Less&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=4AB197)
